@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I also run a Youtube Channel <a href="https://www.youtube.com/c/ViditAwasthi/featured" target="_blank">Vidit Awasthi</a> with 125K+ Subscribers.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank">Vidit Awasthi</a>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&show_icons=true" alt="ViditAwasthi">
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height ="30" width ="30">
+  &nbsp; &nbsp;  &nbsp; &nbsp;
   <a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height ="30" width ="30"></a>
   
 </p>
