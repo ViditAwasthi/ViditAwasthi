@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hi there, I am Vidit Awasthi 👋</h1>
 
-<p align="center">I am currently a 3rd Year undergraduate student at Amity School of Engineering & technology, Noida. I have a Great Interest in the Field of Full-Stack Web Development. I Recently did my Internship at Be Dauntless Foundation as a Web Development Intern. I am proficient in JAVA Programming Language & I also have good knowledge about the Web Development Technologies Like HTML, CSS, BootStrap, JavaScript, Node.js, Express.js, React.js and MongoDB. I Specially Love to build such Projects which could help the Society in a Positive Way. I am also a good at Problem Solving and in the Free time I Like to Create Content for my Youtube Channel.
+<p align="center">I am currently a 3rd Year undergraduate student at Amity School of Engineering & technology, Noida. I have a Great Interest in the Field of Full-Stack Web Development. I Recently did my Internship at Be Dauntless Foundation as a Web Development Intern. I am proficient in JAVA Programming Language & I also have good knowledge about the Web Development Technologies Like HTML, CSS, BootStrap, JavaScript, Node.js, Express.js, React.js and MongoDB. I Specially Love to build such Projects which could help the Society in a Positive Way. I am also good at Problem Solving and in the Free time I Like to Create Content for my Youtube Channel.
 </p>
 
 <div align='center'>
