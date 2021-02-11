@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <h1 align-"center">Hi there, I am Vidit Awasthi 👋</h1>
+<div align='center'>
+ 
+![Vidit's views](https://komarev.com/ghpvc/?username=ViditAwasthi)
+
+</div>
 - 🌱 I’m currently Learning and Enhancing my Skills in <strong>Web Development.</strong>
 - 🔭 I’m currently working on a Project using MERN Stack.
 - 👯 I’m looking to collaborate on <strong>Web Development & MERN Stack.</strong>
