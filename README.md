@@ -15,6 +15,8 @@
   <a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height ="30" width ="30"></a>
   
 </p>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 - 🌱 I’m currently Learning and Enhancing my Skills in <strong>Web Development.</strong>
 - 🔭 I’m currently working on a Project using MERN Stack.
@@ -23,6 +25,8 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank">Vidit Awasthi</a>
 - ⚡ Fun fact: I also run a Youtube Channel <a href="https://www.youtube.com/c/ViditAwasthi/featured" target="_blank">Vidit Awasthi</a> with 125K+ Subscribers.
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<br>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&show_icons=true" alt="ViditAwasthi">
