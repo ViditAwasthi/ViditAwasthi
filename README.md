@@ -1,10 +1,20 @@
 
 <h1 align='center'>Hi there, I am Vidit Awasthi 👋</h1>
+
+<p align="center">I am currently a 3rd Year undergraduate student at Amity School of Engineering & technology, Noida. I have a Great Interest in the Field of Full-Stack Web Development. I Recently did my Internship at Be Dauntless Foundation as a Web Development Intern. I am proficient in JAVA Programming Language & I also have good knowledge about the Web Development Technologies Like HTML, CSS, BootStrap, JavaScript, Node.js, Express.js, React.js and MongoDB. I Specially Love to build such Projects which could help the Society in a Positive Way. I am also a good at Problem Solving and in the Free time I Like to Create Content for my Youtube Channel.
+</p>
+
 <div align='center'>
  
 ![Vidit's views](https://komarev.com/ghpvc/?username=ViditAwasthi)
 
 </div>
+<p align='center'>
+<a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height ="30" width ="30">
+  &nbsp; &nbsp;  &nbsp; &nbsp;
+  <a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height ="30" width ="30"></a>
+  
+</p>
 
 - 🌱 I’m currently Learning and Enhancing my Skills in <strong>Web Development.</strong>
 - 🔭 I’m currently working on a Project using MERN Stack.
@@ -18,9 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&show_icons=true" alt="ViditAwasthi">
 </p>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height ="30" width ="30">
-  &nbsp; &nbsp;  &nbsp; &nbsp;
-  <a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height ="30" width ="30"></a>
-  
-</p>
+
