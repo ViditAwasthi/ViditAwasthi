@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-(https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=ViditAwasthi&layout=compact)](https://github.com/ViditAwasthi/ViditAwasthi.git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViditAwasthi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
