@@ -29,6 +29,13 @@
 - ⚡ Fun fact: I also run a Youtube Channel <a href="https://www.youtube.com/c/ViditAwasthi/featured" target="_blank">Vidit Awasthi</a> with 125K+ Subscribers.
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<br>
+
+<div align="center">
+[![Top Langs](https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=ViditAwasthi&layout=compact)](https://github.com/ViditAwasthi/ViditAwasthi.git)
+</div>
+
 <br>
 
 <p align='center'>
