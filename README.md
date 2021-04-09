@@ -32,11 +32,9 @@
 
 <br>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViditAwasthi&layout=compact)](https://github.com/ViditAwasthi/ViditAwasthi)
-</div>
 
-<br>
+
+
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&show_icons=true" alt="ViditAwasthi">
