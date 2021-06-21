@@ -13,9 +13,13 @@
 
 </div>
 <p align='center'>
-<a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height ="30" width ="30">
-  &nbsp; &nbsp;  &nbsp; &nbsp;
-  <a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height ="30" width ="30"></a>
+<!--  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg -->
+<a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<!--   &nbsp; &nbsp;  &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank">img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
+ 
+ &nbsp; &nbsp;  &nbsp; &nbsp;
+  <a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
