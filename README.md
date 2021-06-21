@@ -32,21 +32,16 @@
 
 <br>
 
-
-
-
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&show_icons=true" alt="ViditAwasthi">
-</p>
-
-<br>
-
-[![Top Langs](https://github-readme-stats-git-master-ViditAwasthi.vercel.app/api/top-langs/?username=ViditAwasthi&theme=tokyonight&layout=compact)](https://github.com/ViditAwasthi/ViditAwasthi.git)
-![Vidit's github stats](https://github-readme-stats-git-master-ViditAwasthi.vercel.app/api?username=ViditAwasthi&theme=tokyonight&show_icons=true&count_private=true)
-  
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&count_private=true"/>
+<!-- ![Vidit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViditAwasthi&count_private=true) -->
+ 
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditAwasthi&langs_count=10&layout=compact"
+/>
 </div>
+<!-- [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 
