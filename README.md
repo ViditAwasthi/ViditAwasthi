@@ -12,16 +12,18 @@
 ![Vidit's views](https://komarev.com/ghpvc/?username=ViditAwasthi)
 
 </div>
-<p align='center'>
+<div align ='center'>
+<!-- <p align='center'> -->
 <!--  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg -->
 <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<!--   &nbsp; &nbsp;  &nbsp; &nbsp;
- <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank">img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
+<!--  &nbsp; &nbsp;  &nbsp; &nbsp; -->
+<!--  <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank">img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> --> 
  
- &nbsp; &nbsp;  &nbsp; &nbsp;
+
   <a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   
-</p>
+<!-- </p> -->
+ </div>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
