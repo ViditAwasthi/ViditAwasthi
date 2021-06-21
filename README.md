@@ -36,15 +36,10 @@
 
 
 
-<!-- <p align='center'>
+<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&show_icons=true" alt="ViditAwasthi">
-</p> -->
+</p>
 
-<div align="center">
-  <h1>GitHub Statistics :bar_chart: </h1>
-
-<img src="https://komarev.com/ghpvc/?username=ViditAwasthi" alt="ViditAwasthi" />
-<br>
 <br>
 
 [![Top Langs](https://github-readme-stats-git-master-ViditAwasthi.vercel.app/api/top-langs/?username=ViditAwasthi&theme=tokyonight&layout=compact)](https://github.com/ViditAwasthi/ViditAwasthi.git)
