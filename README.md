@@ -40,4 +40,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&show_icons=true" alt="ViditAwasthi">
 </p>
 
+<div align="center">
+  <h1>GitHub Statistics :bar_chart: </h1>
+
+<img src="https://komarev.com/ghpvc/?username=ViditAwasthi" alt="ViditAwasthi" />
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats-git-master-ViditAwasthi.vercel.app/api/top-langs/?username=ViditAwasthi&theme=tokyonight&layout=compact)](https://github.com/ViditAwasthi/ViditAwasthi.git) ![Vidit's github stats](https://github-readme-stats-git-master-ViditAwasthi.vercel.app/api?username=ViditAwasthi&theme=tokyonight&show_icons=true&count_private=true)
+  
+[![Vidit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ViditAwasthi&theme=react-dark)](https://github.com/ViditAwasthi)
+
+</div>
+
+
 
