@@ -12,29 +12,24 @@
 ![Vidit's views](https://komarev.com/ghpvc/?username=ViditAwasthi)
 
 </div>
-<div align ='center'>
-<!-- <p align='center'> -->
-<!--  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg -->
+
+<p align="center">
 <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<!--  &nbsp; &nbsp;  &nbsp; &nbsp; -->
-<!--  <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/" target="_blank">img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> --> 
- 
- 
-
-  
- 
- 
- 
-  <a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  
- 
-  
- 
-
-
- 
+<a href="https://www.instagram.com/vidit_awasthi/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>   
+ </p>
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/vidit-awasthi-768010195/">
+    <img width="5%" src="Resources/LinkedIn_logo.png" />
+  </a>
+  <a href="https://twitter.com/ViditAwasthi_">
+    <img width="5%" src="Resources/Twitter_logo.png" />
+  </a>
+  <a href="https://www.instagram.com/vidit_awasthi/?hl=en">
+    <img width="5%" src="Resources/Instagram_logo.png" />
+  </a>
+</p>   
 <!-- </p> -->
- </div>
+
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
@@ -51,14 +46,18 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&count_private=true"/>
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ViditAwasthi&count_private=true&theme=vision-friendly-dark"/>
+ </p>
 <!-- ![Vidit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViditAwasthi&count_private=true) -->
- 
+ <p align="center">
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditAwasthi&langs_count=10&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditAwasthi&langs_count=10&layout=compact&theme=vision-friendly-dark"
 />
+ </p>
+ <p align="center">
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ViditAwasthi&theme=vision-friendly-dark" />
-
+ </p>
 </div>
 <!-- [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
 
